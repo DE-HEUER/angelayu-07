@@ -1,0 +1,48 @@
+
+body {
+  background-color:blanchedalmond;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  line-height: 1.4;
+  font-size:10;
+}
+
+
+.card {
+  border: 1px solid #dddddd;
+  background-color:  rgba(250, 128, 114, 0.5);
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: rgba(100, 90, 90, 0.5);
+  border-width: 6px;
+  width: 3%;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+h1, h2, h3 {
+  color: #66BFBF;
+}
+
+h4 {
+  color:black;
+}
+
+
+.text-center {
+  text-align: center;
+}
+
+#footer {
+  background-color: blueviolet;
+  color: snow;
+  padding: 10px;
+  font-size: 20px;
+}
